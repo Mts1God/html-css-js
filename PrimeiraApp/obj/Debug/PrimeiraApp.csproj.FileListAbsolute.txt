@@ -1,0 +1,10 @@
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\bin\Debug\PrimeiraApp.exe.config
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\bin\Debug\PrimeiraApp.exe
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\bin\Debug\PrimeiraApp.pdb
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.AssemblyReference.cache
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.Form1.resources
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.Properties.Resources.resources
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.GenerateResource.cache
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.CoreCompileInputs.cache
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.exe
+C:\Users\mateus.fribeiro1\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.pdb

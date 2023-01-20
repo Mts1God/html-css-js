@@ -1,0 +1,28 @@
+body{
+    background-image: url("jjj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    color: white;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    border-style:outset;
+    border-color: azure;
+    border-width: 10px;
+    /*border: solid purple 10px*/
+}
+.carro1{
+   color: blueviolet;
+}
+footer{
+    color: aliceblue;
+}
+#exemplo p{
+    color: red;
+}
+#exemplo div{
+    color: purple;
+}

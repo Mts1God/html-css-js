@@ -1,0 +1,13 @@
+.classe1{
+background-color: blue;
+}
+
+.classe3{
+    color: red;
+}
+.caixa{
+    border-style: double;
+    width: 430px;
+    margin-left: 20px;
+    text-align: center;
+}
